@@ -22,6 +22,7 @@ function App() {
           <a href="">Technologies</a>
           <a href="">Contact</a>
         </div>
+        <div className="title">Optdesign Inc.</div>
         <Particles height="350px" width="300px" style={{backgroundColor: "black", width:"100%"}} />
       </header>
       <h2>Who We Are</h2>
